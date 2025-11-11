@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m Zherish (@zhrssh).
-- 👀 I’m interested in programming and exploring different techs.
-- 🌱 I’m still studying and learning different topics while strengthening my skills in the automation field.
+- 👀 I’m passionate in programming and exploring different techs.
+- 🌱 I’m continuously studying, learning and strengthening my skills in the automation field.
 - 📫 How to reach me: Contact me through my email: zherishatbusiness@gmail.com
 ---
 # Github Stats
